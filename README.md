@@ -1,2 +1,2 @@
 # Python-Turtle
-This is a 
+This is a python animation by the use of TURTLE module.
